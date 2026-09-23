@@ -14,7 +14,7 @@ from aiogram.fsm.context import FSMContext
 # ==========================================
 #                  SOZLAMALAR
 # ==========================================
-BOT_TOKEN = "8656369612:AAHpVfrFadGX7RQgNu7YNZAYfqP_zJFinQQ"
+BOT_TOKEN = "8214660610:AAHWHVA91nVCkdhMrSAMPVjlHS1AKdzHiTY"
 ADMIN_IDS = {8631477823}
 CARD_NUMBER = "9860 1666 5645 6349"
 CARD_OWNER = "AZIZBEK K"
