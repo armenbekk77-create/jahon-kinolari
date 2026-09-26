@@ -16,8 +16,8 @@ from aiogram.fsm.context import FSMContext
 # ==========================================
 BOT_TOKEN = "8214660610:AAHWHVA91nVCkdhMrSAMPVjlHS1AKdzHiTY"
 ADMIN_IDS = {8631477823, 8194381124}
-CARD_NUMBER = "9860 1666 5645 6349"
-CARD_OWNER = "AZIZBEK K"
+CARD_NUMBER = "9860 0801 7108 5576"
+CARD_OWNER = "NIGORA KOBEEVA"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
